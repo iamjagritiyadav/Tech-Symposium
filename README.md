@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # TECH@IIMB 2027 — website
+https://techsymposium-2026.vercel.app/
 
 A static multi-page site with no build step. Upload the folder to any static host, such as GitHub Pages, Netlify or IIMB's own web server.
 
